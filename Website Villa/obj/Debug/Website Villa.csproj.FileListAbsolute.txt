@@ -1,0 +1,33 @@
+\\bds01\users\rhorrocks\visual studio 2015\Projects\Website Villa\Website Villa\bin\ApplicationInsights.config
+\\bds01\users\rhorrocks\visual studio 2015\Projects\Website Villa\Website Villa\bin\roslyn\csc.exe
+\\bds01\users\rhorrocks\visual studio 2015\Projects\Website Villa\Website Villa\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+\\bds01\users\rhorrocks\visual studio 2015\Projects\Website Villa\Website Villa\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+\\bds01\users\rhorrocks\visual studio 2015\Projects\Website Villa\Website Villa\bin\roslyn\Microsoft.CodeAnalysis.dll
+\\bds01\users\rhorrocks\visual studio 2015\Projects\Website Villa\Website Villa\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+\\bds01\users\rhorrocks\visual studio 2015\Projects\Website Villa\Website Villa\bin\roslyn\Microsoft.CSharp.Core.targets
+\\bds01\users\rhorrocks\visual studio 2015\Projects\Website Villa\Website Villa\bin\roslyn\Microsoft.VisualBasic.Core.targets
+\\bds01\users\rhorrocks\visual studio 2015\Projects\Website Villa\Website Villa\bin\roslyn\System.Collections.Immutable.dll
+\\bds01\users\rhorrocks\visual studio 2015\Projects\Website Villa\Website Villa\bin\roslyn\System.Reflection.Metadata.dll
+\\bds01\users\rhorrocks\visual studio 2015\Projects\Website Villa\Website Villa\bin\roslyn\vbc.exe
+\\bds01\users\rhorrocks\visual studio 2015\Projects\Website Villa\Website Villa\bin\roslyn\VBCSCompiler.exe
+\\bds01\users\rhorrocks\visual studio 2015\Projects\Website Villa\Website Villa\bin\roslyn\VBCSCompiler.exe.config
+\\bds01\users\rhorrocks\visual studio 2015\Projects\Website Villa\Website Villa\bin\Website Villa.dll.config
+\\bds01\users\rhorrocks\visual studio 2015\Projects\Website Villa\Website Villa\bin\Website Villa.dll
+\\bds01\users\rhorrocks\visual studio 2015\Projects\Website Villa\Website Villa\bin\Website Villa.pdb
+\\bds01\users\rhorrocks\visual studio 2015\Projects\Website Villa\Website Villa\bin\Microsoft.AI.Agent.Intercept.dll
+\\bds01\users\rhorrocks\visual studio 2015\Projects\Website Villa\Website Villa\bin\Microsoft.AI.DependencyCollector.dll
+\\bds01\users\rhorrocks\visual studio 2015\Projects\Website Villa\Website Villa\bin\Microsoft.AI.PerfCounterCollector.dll
+\\bds01\users\rhorrocks\visual studio 2015\Projects\Website Villa\Website Villa\bin\Microsoft.AI.ServerTelemetryChannel.dll
+\\bds01\users\rhorrocks\visual studio 2015\Projects\Website Villa\Website Villa\bin\Microsoft.AI.Web.dll
+\\bds01\users\rhorrocks\visual studio 2015\Projects\Website Villa\Website Villa\bin\Microsoft.AI.WindowsServer.dll
+\\bds01\users\rhorrocks\visual studio 2015\Projects\Website Villa\Website Villa\bin\Microsoft.ApplicationInsights.dll
+\\bds01\users\rhorrocks\visual studio 2015\Projects\Website Villa\Website Villa\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+\\bds01\users\rhorrocks\visual studio 2015\Projects\Website Villa\Website Villa\bin\Microsoft.AI.DependencyCollector.xml
+\\bds01\users\rhorrocks\visual studio 2015\Projects\Website Villa\Website Villa\bin\Microsoft.AI.ServerTelemetryChannel.xml
+\\bds01\users\rhorrocks\visual studio 2015\Projects\Website Villa\Website Villa\bin\Microsoft.AI.Web.xml
+\\bds01\users\rhorrocks\visual studio 2015\Projects\Website Villa\Website Villa\bin\Microsoft.AI.WindowsServer.xml
+\\bds01\users\rhorrocks\visual studio 2015\Projects\Website Villa\Website Villa\bin\Microsoft.ApplicationInsights.xml
+\\bds01\users\rhorrocks\visual studio 2015\Projects\Website Villa\Website Villa\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+\\bds01\users\rhorrocks\visual studio 2015\Projects\Website Villa\Website Villa\obj\Debug\Website Villa.csprojResolveAssemblyReference.cache
+\\bds01\users\rhorrocks\visual studio 2015\Projects\Website Villa\Website Villa\obj\Debug\Website Villa.dll
+\\bds01\users\rhorrocks\visual studio 2015\Projects\Website Villa\Website Villa\obj\Debug\Website Villa.pdb
